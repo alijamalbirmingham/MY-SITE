@@ -2,25 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MY-SITE.github.io/MY-SITE/blog</id>
     <title>IT&amp;D Blog</title>
-    <updated>2022-04-01T12:40:43.000Z</updated>
+    <updated>2022-03-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MY-SITE.github.io/MY-SITE/blog"/>
     <subtitle>IT&amp;D Blog</subtitle>
     <icon>https://MY-SITE.github.io/MY-SITE/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Portfolio]]></title>
-        <id>myblog</id>
-        <link href="https://MY-SITE.github.io/MY-SITE/blog/myblog"/>
-        <updated>2022-04-01T12:40:43.000Z</updated>
+        <title type="html"><![CDATA[Greetings!]]></title>
+        <id>greetings</id>
+        <link href="https://MY-SITE.github.io/MY-SITE/blog/greetings"/>
+        <updated>2022-03-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Congratulations, you have made your first post!]]></summary>
         <content type="html"><![CDATA[<p>Congratulations, you have made your first post!</p><p>Feel free to play around and edit this post as much you like.</p>]]></content>
         <author>
-            <name>Muhammad Yaseen</name>
-            <uri>https://github.com/MuhammadYaseen7799</uri>
+            <name>Joel Marcey</name>
+            <uri>https://github.com/JoelMarcey</uri>
         </author>
-        <category label="React" term="React"/>
-        <category label="MK" term="MK"/>
-        <category label="C#" term="C#"/>
+        <author>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <category label="greetings" term="greetings"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
