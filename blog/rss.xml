@@ -4,18 +4,20 @@
         <title>IT&amp;D Blog</title>
         <link>https://MY-SITE.github.io/MY-SITE/blog</link>
         <description>IT&amp;D Blog</description>
-        <lastBuildDate>Wed, 30 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 12:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Greetings!]]></title>
-            <link>https://MY-SITE.github.io/MY-SITE/blog/greetings</link>
-            <guid>greetings</guid>
-            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <title><![CDATA[Portfolio]]></title>
+            <link>https://MY-SITE.github.io/MY-SITE/blog/myblog</link>
+            <guid>myblog</guid>
+            <pubDate>Fri, 01 Apr 2022 12:40:43 GMT</pubDate>
             <description><![CDATA[Congratulations, you have made your first post!]]></description>
             <content:encoded><![CDATA[<p>Congratulations, you have made your first post!</p><p>Feel free to play around and edit this post as much you like.</p>]]></content:encoded>
-            <category>greetings</category>
+            <category>React</category>
+            <category>MK</category>
+            <category>C#</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2033],{1436:function(e){e.exports=JSON.parse('{"allTagsPath":"/MY-SITE/blog/tags","name":"C#","count":1,"permalink":"/MY-SITE/blog/tags/c"}')}}]);
